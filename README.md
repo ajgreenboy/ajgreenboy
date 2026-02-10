@@ -6,14 +6,6 @@ Building secure, scalable systems with expertise in network administration, cont
 
 ---
 
-## 🎓 Education
-
-- **AS Network Administration** — Minneapolis College (Dec 2025)
-- **AS Cybersecurity** — Minneapolis College (Dec 2025)
-- **AS Mathematics** — Minneapolis College (May 2025)
-
----
-
 ## 🛠️ Technical Skills
 
 **Systems Administration**
