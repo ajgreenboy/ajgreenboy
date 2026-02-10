@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Albert Weiner
+Hi, I'm Albert
 
 **Infrastructure & Security Engineer** based in Minneapolis, Minnesota
 
